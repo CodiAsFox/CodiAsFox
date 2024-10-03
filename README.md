@@ -12,5 +12,7 @@ I'm a **full-stack developer** by day and a **writer wannabe** by night. Welcome
 Feel free to **ring me a text** at:
 - **Telegram**: [@CodiAsFox](https://t.me/CodiAsFox)
 - **Discord**: CodiAsFox
+- **Blog**: [https://tayfox.ca](https://tayfox.ca)
+- **I'm writing a book!**: [My Dinosaur Life](https://mydinosaurlife.com)
 
 Thanks for stopping by!
