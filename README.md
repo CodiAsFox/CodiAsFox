@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey bud. Welcome!
 
-<!--
-**CodiAsFox/CodiAsFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Taylor**, but you can call me **Tay**!
 
-Here are some ideas to get you started:
+I'm a **full-stack developer** by day and a **writer wannabe** by night. Welcome to my GitHub! Here you'll find **good-ish code** and some of the projects I'm working on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+<img src="assets/img/furlab.png" width="324" height="324">
+
+![Furlab logo](assets/img/furlab.png | width=324x324)
+
+- **Lead Developer** of the open-source project [Furlab App](https://github.com/CodiAsFox/furlab/). Check it out if you're into reverse image search for furry art and one stop app for furs! 🐾
+
+Feel free to **ring me a text** at:
+- **Telegram**: [@CodiAsFox](https://t.me/CodiAsFox)
+- **Discord**: CodiAsFox
+
+Thanks for stopping by!
